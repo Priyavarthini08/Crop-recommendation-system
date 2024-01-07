@@ -33,17 +33,27 @@ rainfall - rainfall in mm
 
 ## Project Flow
 We will handle this problem in a structured way.
+
 Loading Packages and Data
+
 Data Structure and Content
+
 Checking Missing Value 
+
 Exploratory Data Analysis
-Feature Engineering
+
 PreProcessing Data
+
 Modeling
+
 Decision Tree
+
 Guassian Naive Bayes
+
 Support Vector Machine
+
 Logistic Regression
+
 RandomForest
 
 
