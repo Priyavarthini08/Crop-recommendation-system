@@ -10,12 +10,12 @@ Nearest Neighbour (KNN), Naive bayes, Decision Tree are used.
 ## Dataset Description
 Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you a dataset which would allow the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
 
-# Dataset 
+### Dataset 
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 The data has 2200 rows of 8 variables
 
-# Variable - Details
+## Variable - Details
 N - ratio of Nitrogen content in soil
 P - ratio of Phosphorous content in soil
 K - ratio of Potassium content in soil
@@ -24,7 +24,7 @@ humidity - relative humidity in %
 ph - ph value of the soil
 rainfall - rainfall in mm
 
-# Project Flow
+## Project Flow
 We will handle this problem in a structured way.
 Loading Packages and Data
 Data Structure and Content
