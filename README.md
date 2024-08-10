@@ -55,7 +55,9 @@ We will handle this problem in a structured way.
    * Logistic Regression
 
    * RandomForest
-   
+
+# Deployment of crop recommendation system using flask framework
+
      ![crop](https://github.com/user-attachments/assets/df456421-7e1e-40a0-ab4a-5332ce275172)
 
      
