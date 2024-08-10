@@ -55,6 +55,12 @@ We will handle this problem in a structured way.
    * Logistic Regression
 
    * RandomForest
+   
+     ![crop](https://github.com/user-attachments/assets/df456421-7e1e-40a0-ab4a-5332ce275172)
+
+     
+![crop1](https://github.com/user-attachments/assets/e4ec01b3-d080-48ba-afc5-2df9a3aefe6d)
+
 
 
 
