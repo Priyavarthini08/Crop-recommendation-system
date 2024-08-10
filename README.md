@@ -58,6 +58,7 @@ We will handle this problem in a structured way.
 
 
 
+[crop_rec.zip](https://github.com/user-attachments/files/16571096/crop_rec.zip)
 
 
 
